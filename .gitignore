@@ -1,29 +1,3 @@
-
-.bash_history
-.gitconfig
-.lesshst
-
-
-
-Cookies/
-Local Settings/
-My Documents/
-NetHood/
-PrintHood/
-Recent/
-SendTo/
-Start Menu/
-Templates/
-OneDrive/
-Pictures/
-Saved Games/
-Searches/
-Videos/
-
-# Ignore log and temporary files
-*.log
-*.tmp
-ntuser.dat.LOG1
-ntuser.dat.LOG2
-ntuser.ini
-
+# Ignore directories that are not needed
+AppData/
+.vscode/
