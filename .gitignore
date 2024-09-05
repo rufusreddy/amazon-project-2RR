@@ -1,1 +1,29 @@
+# Ignore system and configuration files
+.bash_history
+.gitconfig
+.lesshst
+
+# Ignore common system directories
+AppData/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+
+# Ignore log and temporary files
+*.log
+*.tmp
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
 
