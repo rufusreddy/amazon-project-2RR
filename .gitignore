@@ -1,10 +1,10 @@
-# Ignore system and configuration files
+
 .bash_history
 .gitconfig
 .lesshst
 
-# Ignore common system directories
-AppData/
+
+
 Cookies/
 Local Settings/
 My Documents/
